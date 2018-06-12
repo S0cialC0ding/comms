@@ -1,2 +1,2 @@
 test
-[notes#1](/notes1/)
+[notes#1](/notes1.html)
